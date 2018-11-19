@@ -1,4 +1,5 @@
-# SimpleScale
+# SimpleScale - forked from https://github.com/DedeHai/SimpleScale
+
 fully 3D-printable scale. More info available at https://bashtelorofscience.wordpress.com/ 
 
 License:
